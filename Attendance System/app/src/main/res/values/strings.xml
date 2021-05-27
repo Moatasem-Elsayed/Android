@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="City">
+        <item> Cairo </item>
+        <item> Giza </item>
+        <item> Alexandria </item>
+    </string-array>
+
+    <string-array name="Area">
+        <item> Ain Shams </item>
+        <item> Al Zeitoun </item>
+        <item> Al Rehab </item>
+        <item> 6th of October </item>
+        <item> Abou Rawash </item>
+        <item> Al Wahat </item>
+        <item> Abees </item>
+        <item> Glem </item>
+        <item> Mandara </item>
+    </string-array>
+
+    <string-array name="Zip">
+        <item> 11772 </item>
+        <item> 11725 </item>
+        <item> 11841 </item>
+        <item> 12563 </item>
+        <item> 12676 </item>
+        <item> 00100 </item>
+        <item> 33742 </item>
+        <item> 21619 </item>
+        <item> 21923 </item>
+    </string-array>
+</resources>
